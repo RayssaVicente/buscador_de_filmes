@@ -92,6 +92,15 @@ Execute os comandos abaixo no diretório principal do projeto:
 
 - se de que a função JavaScript fetchMovies está sendo chamada após o clique no botão de busca.
 
+  ## Layout em Diferentes Dispositivos
+  
+1. **Notebook**
+![Captura de Tela (827)](https://github.com/user-attachments/assets/ada955d2-f945-45b2-9009-026e0c34efdd)
+
+2. **Notebook**
+
+
+
 
 
 
