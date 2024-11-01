@@ -19,7 +19,7 @@ Este projeto é uma aplicação web de busca de filmes usando Django (Back-end) 
 1. **Clone o repositório**:
 
 
-- git clone https://github.com/RayssaVicente/django.git
+- git clone https://github.com/RayssaVicente/buscador_de_filmes.git
 
 - cd movieapi
 
