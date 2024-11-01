@@ -106,7 +106,8 @@ Execute os comandos abaixo no diretório principal do projeto:
   ![Captura de Tela (836)](https://github.com/user-attachments/assets/50a48a92-bf96-4d09-8233-bb6f042eb39b)
 
 6. **Iphone 14 Pro(tela: 379 x 872**
- 
+ ![Captura de Tela (839)](https://github.com/user-attachments/assets/c611ed63-9163-456f-8dc0-8ab5f3fce2b7)
+
 
 
 
