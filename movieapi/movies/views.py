@@ -8,37 +8,37 @@ def filmes_lista(request):
     filmes = [
         {
             "titulo": "Capitão América: O primeiro Vingador",
-            "imagem": "https://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/84/69/36/19774937.jpg",
+            "imagem": "https://via.placeholder.com/150",
             "ano": 2011
         },
         {
             "titulo": "Capitã Marvel",
-            "imagem": "https://br.web.img2.acsta.net/r_1920_1080/img/35/ca/35ca03a8520c42c999c1d01ae1598b1b.jpg",
+            "imagem": "https://via.placeholder.com/150",
             "ano": 2019
         },
         {
             "titulo": "Homem de Ferro",
-            "imagem": "https://br.web.img3.acsta.net/r_1920_1080/img/30/23/30232de235a8bca8533f5ddb06fef0dd.jpg",
+            "imagem": "https://via.placeholder.com/150",
             "ano": 2008
         },
         {
             "titulo": "Homem de Ferro 2",
-            "imagem": "https://br.web.img2.acsta.net/r_1920_1080/img/93/52/93525b1f4241c37489914ec1e990e3cd.jpg",
+            "imagem": "https://via.placeholder.com/150",
             "ano": 2010
         },
         {
             "titulo": "Hulk",
-            "imagem": "https://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/65/69/21/18949753.jpg",
+            "imagem": "https://via.placeholder.com/150",
             "ano": 2008
         },
         {
             "titulo": "Thor",
-            "imagem": "https://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/77/96/35/19701393.jpg",
+            "imagem": "https://via.placeholder.com/150",
             "ano": 2011
         },
         {
             "titulo": "Os Vingadores",
-            "imagem": "https://br.web.img3.acsta.net/r_1920_1080/img/ac/73/ac73fdd7ee4a9eaea1b19f8ec1400382.jpg",
+            "imagem": "https://via.placeholder.com/150",
             "ano": 2012
         }
     ]
