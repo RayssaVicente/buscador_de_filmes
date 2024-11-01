@@ -94,10 +94,14 @@ Execute os comandos abaixo no diretório principal do projeto:
 
   ## Layout em Diferentes Dispositivos
   
-1. **Notebook**
+1. **Notebook (tela:)**
 ![Captura de Tela (827)](https://github.com/user-attachments/assets/ada955d2-f945-45b2-9009-026e0c34efdd)
 
-2. **Notebook**
+2. **Ipad (tela: 575 x 767)**
+![Captura de Tela (829)](https://github.com/user-attachments/assets/4e6fcd6e-7b12-44dc-a4d3-d0a6498eb551)
+![Captura de Tela (828)](https://github.com/user-attachments/assets/ef1c3cee-1b80-4bc0-aef8-0ec139aaa0f5)
+2. **Celular**
+   
 
 
 
